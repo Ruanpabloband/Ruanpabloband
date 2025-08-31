@@ -20,7 +20,7 @@
 - Experiência em C, Java, Git, GitHub e VSCode.  
 - Sempre buscando novos desafios e soluções eficientes. 🚀  
 
-<img src="https://media.giphy.com/media/3o7TKsQ2QkQkzG4qZu/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Jogo da Cobra Animado">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Tecnologias e Ferramentas:
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C shield"/>
