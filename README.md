@@ -3,22 +3,22 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
 
 <h1 align="center">
-  < Ruan Pablo /> 👨🏻‍💻
+  < Ruan Pablo /> 👨🏻‍💻
 </h1>
 
 <h2 align="center">
-  Formação: Tecnologia da Informação - UFERSA 🎓
+  Formação: Tecnologia da Informação - UFERSA 🎓
 </h2>
 
 <p align="center">
-  Sou um desenvolvedor Back-end apaixonado por programação em C e Java. 
-  Trabalho com desenvolvimento de sistemas, automação e soluções robustas, sempre buscando aprender e aplicar boas práticas. ⚡
+  Sou um desenvolvedor Back-end apaixonado por programação em C e Java. 
+  Trabalho com desenvolvimento de sistemas, automação e soluções robustas, sempre buscando aprender e aplicar boas práticas. ⚡
 </p>
 
 ### Sobre mim:
-- Apaixonado por desenvolvimento Back-end e lógica de programação. 💻  
-- Experiência em C, Java, Git, GitHub e VSCode.  
-- Sempre buscando novos desafios e soluções eficientes. 🚀  
+- Apaixonado por desenvolvimento Back-end e lógica de programação. 💻  
+- Experiência em C, Java, Git, GitHub e VSCode.  
+- Sempre buscando novos desafios e soluções eficientes. 🚀  
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -38,11 +38,11 @@
 
 ### Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruanpabloband&show_icons=true&theme=blue" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruanpabloband&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanpabloband&layout=compact&theme=blue" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanpabloband&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
